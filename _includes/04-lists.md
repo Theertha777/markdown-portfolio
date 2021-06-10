@@ -1,3 +1,3 @@
-:heart:
-Item 1
-Item 2
+* :heart:
+* Item 1
+* Item 2
